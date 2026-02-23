@@ -1,6 +1,8 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1000&color=7AA2F7&center=true&vCenter=true&width=600&lines=⚡+Hi,+I'm+Pankaj+Yadav+👋;Full+Stack+Developer;Next.js+%7C+Rust+%7C+AI+Enthusiast;Hackathon+Winner+🏆" alt="Typing SVG" />
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1000&color=7AA2F7&center=true&vCenter=true&width=600&lines=Hi,+I%27m+Pankaj+Yadav;Full+Stack+Developer;Next.js+%7C+Rust+%7C+AI+Enthusiast;Hackathon+Winner" alt="Typing SVG" />
+</p>
 
 <br/>
 
@@ -24,7 +26,7 @@
 ### 🛠 Tech Stack & Tools
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=nextjs,react,ts,js,nodejs,prisma,docker,ubuntu,linux,zsh,rust,cpp,tailwind,postman" alt="My Skills" />
+  <img src="https://skillicons.dev/icons?i=nextjs,react,ts,js,nodejs,bun,prisma,docker,ubuntu,linux,rust,cpp,tailwind,postman" alt="My Skills" />
 </p>
 
 ---
