@@ -6,24 +6,24 @@
 
 <br/>
 
-<a href="https://www.linkedin.com/in/pankajyadav-dev" target="_blank">
+<a href="https://www.linkedin.com/in/pankaj-yadav-dev" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
 </a>
-<a href="https://github.com/pankajyadav-dev" target="_blank">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+<a href="https://leetcode.com/u/pankajyadav-dev/" target="_blank">
+  <img src="https://img.shields.io/badge/LeetCode-181717?style=for-the-badge&logo=leetcode&logoColor=white" alt="Leetcode" />
 </a>
 
 <br/><br/>
 
-### 👨‍💻 About Me
-* 🎓 Recently won a **college web development hackathon**.
-* 📜 Completed an **Infosys Springboard** certification course.
-* 💻 Passionate about building highly scalable web apps and AI tools.
-* ⚙️ I daily-drive **Ubuntu (WSL)** and **Zsh**, and I'm deeply interested in modern containerization and monorepo architectures.
+### About Me
+*  Recently won a **college web development hackathon**.
+*  Completed an **Infosys Springboard** certification course.
+*  Passionate about building highly scalable web apps and AI tools.
+*  I daily-drive **Ubuntu (WSL)** and **Zsh**, and I'm deeply interested in modern containerization and monorepo architectures.
 
 ---
 
-### 🛠 Tech Stack & Tools
+### Tech Stack & Tools
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=nextjs,react,ts,js,nodejs,bun,prisma,docker,ubuntu,linux,rust,cpp,tailwind,postman" alt="My Skills" />
@@ -32,11 +32,8 @@
 ---
 
 
-### 📊 Comprehensive Stats
+### Comprehensive Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=pankajyadav-dev&layout=donut&theme=tokyonight&hide_border=true" alt="Top Languages" height="200" />
-</p>
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=pankajyadav-dev&show_icons=true&theme=tokyonight&hide_border=true&title_color=7aa2f7&text_color=9ece6a&icon_color=7aa2f7&bg_color=1a1b26&include_all_commits=true" alt="Pankaj's Stats" height="195" />
@@ -45,7 +42,7 @@
 
 ---
 
-### 🚀 Featured Projects
+### Featured Projects
 
 | Project | Description | Tech Stack |
 | :--- | :--- | :--- |
@@ -54,11 +51,9 @@
 
 ---
 
-### 🔭 Currently Learning & Exploring
-- 🦀 Mastering **Rust** for low-level systems programming.
-- 📦 Optimizing monorepo architecture using **Turborepo**.
-- 🧠 Building dynamic applications utilizing the **Gemini API**.
-
+### Currently Learning & Exploring
+- Mastering **Rust** for low-level systems programming.
+- Optimizing monorepo architecture using **Turborepo**.
 </div>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=7aa2f7&height=100&section=footer" width="100%"/>
