@@ -1,54 +1,69 @@
 <div align="center">
 
-#⚡ Hi, I'm Pankaj Yadav
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1000&color=7AA2F7&center=true&vCenter=true&width=600&lines=⚡+Hi,+I'm+Pankaj+Yadav+👋;Full+Stack+Developer;Next.js+%7C+Rust+%7C+AI+Enthusiast;Hackathon+Winner+🏆" alt="Typing SVG" />
 
-### Full Stack Developer | Next.js | Rust | AI Enthusiast
+<br/>
 
-<!--[LinkedIn](https://www.linkedin.com/in/pankajyadav-dev) -->
-<!--[Portfolio](https://github.com/pankajyadav-dev)-->
+<a href="https://www.linkedin.com/in/pankajyadav-dev" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+</a>
+<a href="https://github.com/pankajyadav-dev" target="_blank">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+</a>
+
+<br/><br/>
+
+### 👨‍💻 About Me
+* 🎓 Recently won a **college web development hackathon**.
+* 📜 Completed an **Infosys Springboard** certification course.
+* 💻 Passionate about building highly scalable web apps and AI tools.
+* ⚙️ I daily-drive **Ubuntu (WSL)** and **Zsh**, and I'm deeply interested in modern containerization and monorepo architectures.
 
 ---
 
-###  Tech Stack & Tools
+### 🛠 Tech Stack & Tools
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=nextjs,react,ts,nodejs,prisma,docker,ubuntu,rust,tailwind,postman" />
-</p>
-
-<!--> **Note:** I use **C++** exclusively for DSA and Competitive Programming.-->
-
----
-
-###  GitHub Statistics
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=pankajyadav-dev&show_icons=true&theme=tokyonight&hide_border=true&title_color=7aa2f7&text_color=9ece6a&icon_color=7aa2f7" alt="Pankaj's Stats" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pankajyadav-dev&layout=compact&theme=tokyonight&hide_border=true&title_color=7aa2f7&text_color=9ece6a" alt="Top Languages" height="150" />
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Total%20Contributions-282a36?style=for-the-badge&logo=github&logoColor=white&labelColor=7aa2f7" alt="Total Contributions" />
+  <img src="https://skillicons.dev/icons?i=nextjs,react,ts,js,nodejs,prisma,docker,ubuntu,linux,zsh,rust,cpp,tailwind,postman" alt="My Skills" />
 </p>
 
 ---
 
-###  Featured Projects
+### 🏆 GitHub Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=pankajyadav-dev&theme=tokyonight&no-frame=true&no-bg=true&margin-w=15" alt="Pankaj's Trophies" />
+</p>
+
+---
+
+### 📊 Comprehensive Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pankajyadav-dev&layout=donut&theme=tokyonight&hide_border=true&title_color=7aa2f7&text_color=9ece6a&bg_color=1a1b26" alt="Top Languages" height="200" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=pankajyadav-dev&show_icons=true&theme=tokyonight&hide_border=true&title_color=7aa2f7&text_color=9ece6a&icon_color=7aa2f7&bg_color=1a1b26&include_all_commits=true" alt="Pankaj's Stats" height="195" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=pankajyadav-dev&theme=tokyonight&hide_border=true&background=1a1b26&ring=7aa2f7&fire=7aa2f7&currStreakNum=9ece6a" alt="GitHub Streak" height="195" />
+</p>
+
+---
+
+### 🚀 Featured Projects
 
 | Project | Description | Tech Stack |
 | :--- | :--- | :--- |
-| **xforces** | Full-stack competitive programming platform | Next.js, Prisma, Tailwind, Docker, Bun , Node.js |
-| **CallbackTicket** | AI Resume Generator using Gemini API | React, Next.js, Gemini API, Node.js |
+| **xforces** | Full-stack **Codeforces clone** and competitive programming platform | Next.js, Prisma, Tailwind, Docker, Bun, Turborepo |
+| **CallbackTicket** | **AI Resume Generator** generating structured data via prompt engineering | React, Next.js, Gemini API, Node.js |
 
 ---
 
-###  Currently Exploring
-- Deepening my knowledge in **Rust** systems programming.
-- Optimizing **Turborepo** workflows for monorepos.
+### 🔭 Currently Learning & Exploring
+- 🦀 Mastering **Rust** for low-level systems programming.
+- 📦 Optimizing monorepo architecture using **Turborepo**.
+- 🧠 Building dynamic applications utilizing the **Gemini API**.
 
 </div>
 
-<br />
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=7aa2f7&height=100&section=footer" width="100%"/>
-</p>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=7aa2f7&height=100&section=footer" width="100%"/>
