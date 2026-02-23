@@ -1,7 +1,7 @@
 <div align="center">
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1000&color=7AA2F7&center=true&vCenter=true&width=600&lines=Hi,+I%27m+Pankaj+Yadav;Full+Stack+Developer;Next.js+%7C+Rust+%7C+AI+Enthusiast;Hackathon+Winner" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1000&color=7AA2F7&center=true&vCenter=true&width=600&lines=Hi,+I%27m+Pankaj+Yadav" alt="Typing SVG" />
 </p>
 
 <br/>
@@ -31,18 +31,11 @@
 
 ---
 
-### 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=pankajyadav-dev&theme=tokyonight&no-frame=true&no-bg=true&margin-w=15" alt="Pankaj's Trophies" />
-</p>
-
----
 
 ### 📊 Comprehensive Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pankajyadav-dev&layout=donut&theme=tokyonight&hide_border=true&title_color=7aa2f7&text_color=9ece6a&bg_color=1a1b26" alt="Top Languages" height="200" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=pankajyadav-dev&layout=donut&theme=tokyonight&hide_border=true" alt="Top Languages" height="200" />
 </p>
 
 <p align="center">
