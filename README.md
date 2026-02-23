@@ -16,10 +16,8 @@
 <br/><br/>
 
 ### About Me
-*  Recently won a **college web development hackathon**.
-*  Completed an **Infosys Springboard** certification course.
 *  Passionate about building highly scalable web apps and AI tools.
-*  I daily-drive **Ubuntu (WSL)** and **Zsh**, and I'm deeply interested in modern containerization and monorepo architectures.
+*  I'm deeply interested in modern containerization and monorepo architectures.
 
 ---
 
@@ -36,7 +34,6 @@
 
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=pankajyadav-dev&show_icons=true&theme=tokyonight&hide_border=true&title_color=7aa2f7&text_color=9ece6a&icon_color=7aa2f7&bg_color=1a1b26&include_all_commits=true" alt="Pankaj's Stats" height="195" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=pankajyadav-dev&theme=tokyonight&hide_border=true&background=1a1b26&ring=7aa2f7&fire=7aa2f7&currStreakNum=9ece6a" alt="GitHub Streak" height="195" />
 </p>
 
