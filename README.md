@@ -34,7 +34,7 @@
 
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=pankajyadav-dev&theme=tokyonight&hide_border=true&background=1a1b26&ring=7aa2f7&fire=7aa2f7&currStreakNum=9ece6a" alt="GitHub Streak" height="195" />
+  <img src="https://streak-stats.demolab.com/?user=pankajyadav-dev&theme=tokyonight&hide_border=true&background=1a1b26&ring=7aa2f7&fire=7aa2f7&currStreakNum=9ece6a" alt="GitHub Streak" height="195" />
 </p>
 
 ---
