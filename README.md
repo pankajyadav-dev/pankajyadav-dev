@@ -14,9 +14,28 @@
   </p>
 
   <p>
+    <img src="https://img.shields.io/badge/zsh-0B0F19?style=for-the-badge&logo=gnubash&logoColor=7CFC98" alt="zsh" />
+    <img src="https://img.shields.io/badge/Oh%20My%20Zsh-0B0F19?style=for-the-badge&logo=powerShell&logoColor=7CFC98" alt="Oh My Zsh" />
+    <img src="https://img.shields.io/badge/theme-0B0F19?style=for-the-badge&labelColor=0B0F19&color=0B0F19&label=prompt&message=p10k--inspired&logoColor=7CFC98" alt="prompt theme" />
+  </p>
+
+  <p>
     <b>Competitive programming</b> • <b>Rust</b> • <b>Next.js</b> • <b>Sandboxes</b> • <b>Monorepos</b>
   </p>
 </div>
+
+---
+
+```zsh
+pankajyadav-dev@github ~ % whoami
+pankajyadav-dev
+
+pankajyadav-dev@github ~ % ls projects
+ironjudge  xforces
+
+pankajyadav-dev@github ~ % cat headline.txt
+I build fast systems & clean products.
+```
 
 ---
 
@@ -29,11 +48,11 @@
         <h3>⚔️ IronJudge</h3>
         <p><b>Sandboxed code execution engine</b> for running untrusted code securely with Linux isolation.</p>
         <p>
-          <img src="https://img.shields.io/badge/Rust-0B0F19?style=flat&logo=rust&logoColor=white" alt="Rust" />
-          <img src="https://img.shields.io/badge/Axum-0B0F19?style=flat&logo=rust&logoColor=white" alt="Axum" />
-          <img src="https://img.shields.io/badge/Redis-DC382D?style=flat&logo=redis&logoColor=white" alt="Redis" />
-          <img src="https://img.shields.io/badge/Linux-0B0F19?style=flat&logo=linux&logoColor=white" alt="Linux" />
-          <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white" alt="Docker" />
+          <img src="https://img.shields.io/badge/Rust-0B0F19?style=flat-square&logo=rust&logoColor=7CFC98" alt="Rust" />
+          <img src="https://img.shields.io/badge/Axum-0B0F19?style=flat-square&logo=rust&logoColor=7CFC98" alt="Axum" />
+          <img src="https://img.shields.io/badge/Redis-0B0F19?style=flat-square&logo=redis&logoColor=7CFC98" alt="Redis" />
+          <img src="https://img.shields.io/badge/Linux-0B0F19?style=flat-square&logo=linux&logoColor=7CFC98" alt="Linux" />
+          <img src="https://img.shields.io/badge/Docker-0B0F19?style=flat-square&logo=docker&logoColor=7CFC98" alt="Docker" />
         </p>
         <p>
           <a href="https://github.com/pankajyadav-dev/ironjudge" target="_blank"><b>Repo</b></a> ·
@@ -44,12 +63,12 @@
         <h3>🏁 xForces</h3>
         <p><b>Competitive programming platform</b> (Codeforces-like) with fast evaluation and modern UX.</p>
         <p>
-          <img src="https://img.shields.io/badge/Next.js-0B0F19?style=flat&logo=nextdotjs&logoColor=white" alt="Next.js" />
-          <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white" alt="TypeScript" />
-          <img src="https://img.shields.io/badge/Prisma-0B0F19?style=flat&logo=prisma&logoColor=white" alt="Prisma" />
-          <img src="https://img.shields.io/badge/Tailwind-38B2AC?style=flat&logo=tailwindcss&logoColor=white" alt="Tailwind" />
-          <img src="https://img.shields.io/badge/Bun-0B0F19?style=flat&logo=bun&logoColor=white" alt="Bun" />
-          <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white" alt="Docker" />
+          <img src="https://img.shields.io/badge/Next.js-0B0F19?style=flat-square&logo=nextdotjs&logoColor=7CFC98" alt="Next.js" />
+          <img src="https://img.shields.io/badge/TypeScript-0B0F19?style=flat-square&logo=typescript&logoColor=7CFC98" alt="TypeScript" />
+          <img src="https://img.shields.io/badge/Prisma-0B0F19?style=flat-square&logo=prisma&logoColor=7CFC98" alt="Prisma" />
+          <img src="https://img.shields.io/badge/Tailwind-0B0F19?style=flat-square&logo=tailwindcss&logoColor=7CFC98" alt="Tailwind" />
+          <img src="https://img.shields.io/badge/Bun-0B0F19?style=flat-square&logo=bun&logoColor=7CFC98" alt="Bun" />
+          <img src="https://img.shields.io/badge/Docker-0B0F19?style=flat-square&logo=docker&logoColor=7CFC98" alt="Docker" />
         </p>
         <p>
           <a href="https://github.com/pankajyadav-dev/xforces" target="_blank"><b>Repo</b></a> ·
