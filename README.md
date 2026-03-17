@@ -51,10 +51,7 @@
           <img src="https://img.shields.io/badge/Bun-0B0F19?style=flat&logo=bun&logoColor=white" alt="Bun" />
           <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white" alt="Docker" />
         </p>
-        <p>
-          <a href="https://github.com/pankajyadav-dev/xforces" target="_blank"><b>Repo</b></a> ·
-          <a href="https://github.com/pankajyadav-dev/xforces#readme" target="_blank"><b>Docs</b></a>
-        </p>
+      
       </td>
     </tr>
   </table>
