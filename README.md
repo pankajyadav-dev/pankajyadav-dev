@@ -65,7 +65,7 @@
 ### Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=rust,cpp,ts,nextjs,react,nodejs,bun,prisma,postgres,redis,docker,linux,tailwind" alt="Tech Stack" />
+  <img src="https://skillicons.dev/icons?i=rust,cpp,ts,nextjs,react,nodejs,bun,prisma,postgres,mongodb,redis,kafka,docker,linux,tailwind" alt="Tech Stack" />
 </p>
 
 ---
